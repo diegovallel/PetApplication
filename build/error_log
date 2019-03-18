@@ -1,0 +1,4 @@
+[14-Sep-2016 19:50:29 America/Bogota] PHP Warning:  include(/version_html/pages-register.html): failed to open stream: No such file or directory in /home/sibxeco/public_html/appPetFun/cleanui/build/validacion.php on line 2
+[14-Sep-2016 19:50:29 America/Bogota] PHP Warning:  include(): Failed opening '/version_html/pages-register.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sibxeco/public_html/appPetFun/cleanui/build/validacion.php on line 2
+[14-Sep-2016 19:50:32 America/Bogota] PHP Warning:  include(/version_html/pages-register.html): failed to open stream: No such file or directory in /home/sibxeco/public_html/appPetFun/cleanui/build/validacion.php on line 2
+[14-Sep-2016 19:50:32 America/Bogota] PHP Warning:  include(): Failed opening '/version_html/pages-register.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sibxeco/public_html/appPetFun/cleanui/build/validacion.php on line 2
